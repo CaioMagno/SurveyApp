@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_list>
+    <question>
+        <text>Pergunta de teste</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+    </question>
+
+    <question>
+        <text>Escolha uma opção</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+    </question>
+
+    <question>
+        <text>blablablablabla</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+        <option n = "3"> Mais ou menos </option>
+    </question>
+
+    <question>
+        <text>Só besteira</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+        <option n = "3"> Mais ou menos </option>
+        <option n = "4"> De vez em quando </option>
+    </question>
+
+    <question>
+        <text>Pergunta de teste</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+    </question>
+
+    <question>
+        <text>Escolha uma opção</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+    </question>
+
+    <question>
+        <text>blablablablabla</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+        <option n = "3"> Mais ou menos </option>
+    </question>
+
+    <question>
+        <text>Só besteira</text>
+        <option n = "1"> Sim </option>
+        <option n = "2"> Não </option>
+        <option n = "3"> Mais ou menos </option>
+        <option n = "4"> De vez em quando </option>
+    </question>
+</question_list>
